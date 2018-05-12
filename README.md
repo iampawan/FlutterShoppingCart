@@ -1,6 +1,8 @@
-# flutter_shoppingcart
+# FlutterShoppingCart
 
-A new Flutter application.
+A new Flutter Shopping Cart App using REDUX architecture .
+
+<img src="ss.png"/>
 
 ## Getting Started
 
