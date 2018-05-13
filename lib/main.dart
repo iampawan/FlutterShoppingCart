@@ -23,7 +23,7 @@ class ShoppingApp extends StatelessWidget {
       store: store,
       child: new MaterialApp(
         debugShowCheckedModeBanner: false,
-        theme: new ThemeData.light(),
+        theme: new ThemeData.dark(),
         home: new ShoppingCart(store: store),
       ),
     );

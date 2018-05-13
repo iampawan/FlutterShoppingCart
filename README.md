@@ -2,7 +2,7 @@
 
 A new Flutter Shopping Cart App using REDUX architecture .
 
-<img src="ss.png"/>
+<img src="https://i.imgur.com/mOgaEzv.gifv" height="300em"/>
 
 ## Getting Started
 
